@@ -1,0 +1,46 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+button
+{
+    color:rgb(203, 238, 238);
+    border-radius: 20px;
+    border-width: 0px;
+    background-color: rgb(65, 107, 107);
+}
+
+body
+{
+    color: rgb(65, 107, 107);
+    background-color: rgb(213, 243, 243);
+}
+
+
+hr
+{
+height: 3px;
+background-color: rgb(65, 107, 107);
+border: none;
+}
+
+h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
